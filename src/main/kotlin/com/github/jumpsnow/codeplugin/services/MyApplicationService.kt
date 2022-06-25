@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jumpsnow.codeplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jumpsnow.codeplugin.MyBundle
 
 class MyApplicationService {
 
